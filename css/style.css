@@ -60,8 +60,8 @@ a:hover{
   margin:auto;
 }
 .mountain {
-  margin-top:5%;
-  margin-bottom: 0;
+  margin:5% auto 0;
+  width:50%;
 }
 .profil{
   padding-top:20px;
