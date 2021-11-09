@@ -50,7 +50,9 @@ a:hover{
   position: relative;
   background-color: #01C5C4;
   margin: 0;
-
+}
+.introduction{
+  width:40%;
 }
 .middleContainer{
   background-color: #b7ede7;
